@@ -8,4 +8,4 @@ w,s,a,d and arrow keys move the ship
 
 ## Game play
 
-The goal is the get the highest score, each meteor dodge adds to the score, as the score increases the dificulty will increase
+The goal is to get the highest score, each meteor dodged adds to the score, as the score increases the dificulty will increase
