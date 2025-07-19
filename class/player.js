@@ -79,7 +79,6 @@ class Player {
 
     this.colours = {1:'#00ff00', 2: '#ffff00'};
 
-    // The this word is going to be complicated
     this.collisionMask = [];
   }
 
@@ -99,7 +98,6 @@ class Player {
 
   draw() {
     this.collisionMask = [];
-    //todo, the new size is causing a problem collisions
     for(let i = 0; i < this.image[this.state].length; i++) {
       for (let j = 0; j < this.image[this.state][i].length; j++) {
         const mapValue = this.image[this.state][i][j];

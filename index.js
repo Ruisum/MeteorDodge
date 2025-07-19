@@ -85,6 +85,3 @@ requestAnimationFrame(game);
 }
 
 requestAnimationFrame(game);
-
-// to do
-// collision detection with block mask
